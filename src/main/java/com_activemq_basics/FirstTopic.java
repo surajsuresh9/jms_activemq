@@ -1,10 +1,7 @@
-package com_1;
-
-import org.w3c.dom.Text;
+package com_activemq_basics;
 
 import javax.jms.*;
 import javax.naming.InitialContext;
-import java.util.function.Consumer;
 
 public class FirstTopic {
     public static void main(String[] args) throws Exception {
